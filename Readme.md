@@ -2,7 +2,6 @@ School Managment System
 
 #How To Start
  >>when you Run The application the DB migration is executed 
- >>you Can Authenticatue (The Password Check Always return False so i create the Toket/[UserNAme] to get token until solve it)
 
     UserName --> amany her Role is Admin for schoolid 1		
 	UserName  --> ahmed is For Normal User for Schoolid 1
